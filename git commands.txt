@@ -1,0 +1,7 @@
+git config --global user.name
+git config --global user.email 
+git init
+git add .
+git remote add origin "copied path" username
+git commit -m "text file"
+git push -u originmaster
